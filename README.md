@@ -1,2 +1,2 @@
 # Python-Coding
-Repository to learn for PySpark and Basic Python Coding
+Repository to learn PySpark and Basic Python Coding
